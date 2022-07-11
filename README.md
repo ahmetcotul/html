@@ -27,6 +27,26 @@ html kodları ve ne işe yaradıkları hakkında derin bilgi sahibi olmak için 
 ***<i>VSCODE için geçerli bir kural var aslında EMMET için geçerli o da "lorem" ile otomatik tanımlı paragraf oluşturma, ve bunun yanında geçerli bir şey var o da p tagları içinde kullanmanın uygun olması ya da h tagları</i><br>
 
 <hr>
+
+  ### Listeler
+  ikiye ayrılır:
+  <ol>
+    <li >Unordered List : ul tagı ile gösterilir.</li>
+    <li>Ordered List: ol tagı ile gösterilir.şu an</li>    
+    <ul>
+      <li>style="list-style-type:square" şeklinde iç kısmına yazılma suretiyle bir style ataması yapılabilir.şu anki olduğu gibi kare olmuş</li>
+      <ul>
+        <li>square:<ins>kare</ins></li>
+        <li>circle:<ins>daireli</ins></li>
+        <li>disc:<ins>içi dolu daireli</ins></li>
+      </ul>
+    </ul>
+  </ol>
+  #### listelerin özelliği
+  <ul>
+    <li>Örnek oLarak navigation barda kullanılmak istense tıklamadan imleç üzerine gidince alta açılarak detay bir liste sunmada yaygın</li>
+    <li>Genelde her sitede muhakkak bir liste kullanışlı olabilir dersek yanılmış olmayız o zaman . Bunların yanında ol şıklarının stillendirilebilir olması büyük önem arz etmekte...</li>
+  </ul>
  
   
   
