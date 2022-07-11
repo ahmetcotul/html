@@ -1,4 +1,4 @@
-# html 
+# HTML5 
 html kodları ve ne işe yaradıkları hakkında derin bilgi sahibi olmak için oluşturuldu.
 
 <b>META TAGLARI SEO için gereklidir</b>
@@ -10,14 +10,23 @@ html kodları ve ne işe yaradıkları hakkında derin bilgi sahibi olmak için 
 <ul>
   
 <hr>
-  <h2>Taglar ve anlamları</h2>
-  <b>br</b>: diğer satıra geçmeye yarar <i>kty!:kapanış tagi yoktur</i><br>
-  <b>hr</b>: satır çizgi bırakır horizonal bir şekilde.<i>kty!</i><br>
+<h2>Bazı Taglar ve anlamları</h2>
+  <b>br</b>: diğer satıra geçmeye yarar <i><ins>kty!:kapanış tagi yoktur</ins></i><br>
+  <b>hr</b>: satır çizgi bırakır horizonal bir şekilde.<i><ins>kty!<ins></i><br>
   <b>b</b> : bold yazı tipi oluşturulur. Örnek : <b>sample Text</b><br>
   <b>i</b> : italic yazı tipi oluşturulur. Örnek : <i>sample text</i><br>
   <b>big</b> : normalinden bir tık büyük yazar.<br>
   <b>small</b> :normalinden bir tık küçük yazar. <br>
+  <b>strong</b> : güçlü yazdığını hissettirir :D .Örnek: <strong> sample text </strong><br>
+  <b>em</b>: vurgulama için . Örnek : <em>sample</em><br>
+  <b>ins</b>: alt çizgi oluşturmak için gereklidir.Ör:<ins>alt çizgili</ins><br>
+  <b>sup</b>: x<sup>2</sup> + 2 gibi üs alma işlemlerinde geçerlidir.<br>
+  <b>sub</b>: H<sub>2</sub>O gibi kimyasal ifadeler gibi ifadelerde.<br>
+  <b>del</b>: Üstünü çizmede : <del>699 TL</del><br>
+  <b>mark</b>: fosforlu yapmada...<br>
+  ***<i>VSCODE için geçerli bir kural var aslında EMMET için geçerli o da "lorem" ile otomatik tanımlı paragraf oluşturma, ve bunun yanında geçerli bir şey var o da p tagları içinde kullanmanın uygun olması ya da h tagları</i><br>
   
-   
+  
+  <hr>
   
    
