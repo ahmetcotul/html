@@ -9,8 +9,15 @@ html kodları ve ne işe yaradıkları hakkında derin bilgi sahibi olmak için 
   <li>meta charset ="utf-8" karakterlerin türü hakkında bilgi sahibi olmada gerekli</li>
 <ul>
   
-
-"br" tagı satır boşluğu yapmada geçerli bir şey 
-"hr" tagı ise çizgi bırakır horizonal bir şekilde
+<hr>
+  <h2>Taglar ve anlamları</h2>
+  <b>br</b>: diğer satıra geçmeye yarar <i>kty!:kapanış tagi yoktur</i><br>
+  <b>hr</b>: satır çizgi bırakır horizonal bir şekilde.<i>kty!</i><br>
+  <b>b</b> : bold yazı tipi oluşturulur. Örnek : <b>sample Text</b><br>
+  <b>i</b> : italic yazı tipi oluşturulur. Örnek : <i>sample text</i><br>
+  <b>big</b> : normalinden bir tık büyük yazar.<br>
+  <b>small</b> :normalinden bir tık küçük yazar. <br>
   
+   
   
+   
