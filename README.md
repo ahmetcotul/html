@@ -10,7 +10,7 @@ html kodları ve ne işe yaradıkları hakkında derin bilgi sahibi olmak için 
 <ul>
   
 <hr>
-<h2>Bazı Taglar ve anlamları</h2>
+  <h2>Bazı Taglar ve anlamları</h2>
   <b>br</b>: diğer satıra geçmeye yarar <i><ins>kty!:kapanış tagi yoktur</ins></i><br>
   <b>hr</b>: satır çizgi bırakır horizonal bir şekilde.<i><ins>kty!<ins></i><br>
   <b>b</b> : bold yazı tipi oluşturulur. Örnek : <b>sample Text</b><br>
@@ -24,9 +24,10 @@ html kodları ve ne işe yaradıkları hakkında derin bilgi sahibi olmak için 
   <b>sub</b>: H<sub>2</sub>O gibi kimyasal ifadeler gibi ifadelerde.<br>
   <b>del</b>: Üstünü çizmede : <del>699 TL</del><br>
   <b>mark</b>: fosforlu yapmada...<br>
-  ***<i>VSCODE için geçerli bir kural var aslında EMMET için geçerli o da "lorem" ile otomatik tanımlı paragraf oluşturma, ve bunun yanında geçerli bir şey var o da p tagları içinde kullanmanın uygun olması ya da h tagları</i><br>
+***<i>VSCODE için geçerli bir kural var aslında EMMET için geçerli o da "lorem" ile otomatik tanımlı paragraf oluşturma, ve bunun yanında geçerli bir şey var o da p tagları içinde kullanmanın uygun olması ya da h tagları</i><br>
+
+<hr>
+ 
   
-  
-  <hr>
   
    
