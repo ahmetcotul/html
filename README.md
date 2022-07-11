@@ -3,9 +3,9 @@ html kodları ve ne işe yaradıkları hakkında derin bilgi sahibi olmak için 
 
 <b>META TAGLARI SEO için gereklidir</b>
 <ul>
-meta name="description" content="açıklama yazılır"
-meta name="keywords" content="anahtar kelimeler[google search]"
-meta name="author" content="yazan kişi hakkında bilgi sahibi"
-meta charset ="utf-8"> karakterlerin türü hakkında bilgi sahibi olmada gerekli
+  <li>meta name="description" content="açıklama yazılır"</li>
+  <li>meta name="keywords" content="anahtar kelimeler[google search]"</li>
+  <li>meta name="author" content="yazan kişi hakkında bilgi sahibi"</li>
+  <li>meta charset ="utf-8"> karakterlerin türü hakkında bilgi sahibi olmada gerekli</li>
 <ul>
   
