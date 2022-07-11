@@ -22,7 +22,7 @@ html kodları ve ne işe yaradıkları hakkında derin bilgi sahibi olmak için 
   <b>ins</b>: alt çizgi oluşturmak için gereklidir.Ör:<ins>alt çizgili</ins><br>
   <b>sup</b>: x<sup>2</sup> + 2 gibi üs alma işlemlerinde geçerlidir.<br>
   <b>sub</b>: H<sub>2</sub>O gibi kimyasal ifadeler gibi ifadelerde.<br>
-  <b>del</b>: Üstünü çizmede : <del>699 TL</del><br>
+  <b>del</b>: Üstünü çizmede : <del>699 TL</del> <i>genelde e ticaret sitelerinde kullanılır..</i><br>
   <b>mark</b>: fosforlu yapmada...<br>
 ***<i>VSCODE için geçerli bir kural var aslında EMMET için geçerli o da "lorem" ile otomatik tanımlı paragraf oluşturma, ve bunun yanında geçerli bir şey var o da p tagları içinde kullanmanın uygun olması ya da h tagları</i><br>
 
