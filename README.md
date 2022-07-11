@@ -42,7 +42,7 @@ html kodları ve ne işe yaradıkları hakkında derin bilgi sahibi olmak için 
       </ul>
     </ul>
   </ol>
-  #### listelerin özelliği
+  ### Listelerin özelliği
   <ul>
     <li>Örnek oLarak navigation barda kullanılmak istense tıklamadan imleç üzerine gidince alta açılarak detay bir liste sunmada yaygın</li>
     <li>Genelde her sitede muhakkak bir liste kullanışlı olabilir dersek yanılmış olmayız o zaman . Bunların yanında ol şıklarının stillendirilebilir olması büyük önem arz etmekte...</li>
