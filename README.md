@@ -34,7 +34,8 @@ html kodları ve ne işe yaradıkları hakkında derin bilgi sahibi olmak için 
     <li >Unordered List : ul tagı ile gösterilir.</li>
     <li>Ordered List: ol tagı ile gösterilir.şu an</li>    
     <ul>
-      <li>style="list-style-type:square" şeklinde iç kısmına yazılma suretiyle bir style ataması yapılabilir.şu anki olduğu gibi kare olmuş</li>
+      <li>style="list-style-type:square" şeklinde iç kısmına yazılma suretiyle bir style ataması yapılabilir.şu anki olduğu gibi kare olmuş</li><br>
+      <p>Bu ikisi için de geçerli</p>
       <ul>
         <li>square:<ins>kare</ins></li>
         <li>circle:<ins>daireli</ins></li>
@@ -46,7 +47,23 @@ html kodları ve ne işe yaradıkları hakkında derin bilgi sahibi olmak için 
   <ul>
     <li>Örnek oLarak navigation barda kullanılmak istense tıklamadan imleç üzerine gidince alta açılarak detay bir liste sunmada yaygın</li>
     <li>Genelde her sitede muhakkak bir liste kullanışlı olabilir dersek yanılmış olmayız o zaman . Bunların yanında ol şıklarının stillendirilebilir olması büyük önem arz etmekte...</li>
+    <li>start="" attribute ile burdan aslında kaçtan başlıcağını belirtebiliri</li>
   </ul>
+  EMMET ICIN .....ol>li{item $}*5 ..... ne anlama geldiğini müsait bir zamanda bak
+  
+  ### HTML5 Resim Ekleme
+  img tagı ile olur... kty!
+  ## attributeleri<br>
+  <ul>
+    <li>src="path" </li>
+    <li>width="genişlik"</li>
+    <li>height="yükseklik"</li>
+    <li>alt="resim yoksa ne gösterilsin..."*****SEO için gerekli adını çekerizzzzz</li>
+    
+    ### HTML5 link ekleme
+    a tagı ile olur href="" özelliği ile de istenilen yere gidilir
+  
+  
  
   
   
