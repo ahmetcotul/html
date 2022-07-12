@@ -66,7 +66,7 @@ a tagı ile olur href="" özelliği ile de istenilen yere gidilir
 - **target="_blank"** yapılırsa yeni sekme açılarak istenilen yere gidilir..
     1. href'e ***.html*** uzantılı dosya verilirse aynı pathde ise değilse de yolu belirtilirse o sayfayı açar
     2. href'e ***.rar vb.*** uzantılı dosya verilirse indirir
-    ![This is an image](/assets/images/ss.png)
+    ![This is an image](/ss.png)
 
 
   
