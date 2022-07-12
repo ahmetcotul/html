@@ -60,8 +60,13 @@ html kodları ve ne işe yaradıkları hakkında derin bilgi sahibi olmak için 
     <li>height="yükseklik"</li>
     <li>alt="resim yoksa ne gösterilsin..."*****SEO için gerekli adını çekerizzzzz</li>
     
-    ### HTML5 link ekleme
-    a tagı ile olur href="" özelliği ile de istenilen yere gidilir
+### HTML5 link ekleme
+a tagı ile olur href="" özelliği ile de istenilen yere gidilir
+- **href** özelliği ile istenilen yere gidilir
+- **target="_blank"** yapılırsa yeni sekme açılarak istenilen yere gidilir..
+    1. href'e ***.html*** uzantılı dosya verilirse aynı pathde ise değilse de yolu belirtilirse o sayfayı açar
+    2. href'e ***.rar vb.*** uzantılı dosya verilirse indirir
+    
   
   
  
