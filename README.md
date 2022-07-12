@@ -67,8 +67,17 @@ a tagı ile olur href="" özelliği ile de istenilen yere gidilir
     1. href'e ***.html*** uzantılı dosya verilirse aynı pathde ise değilse de yolu belirtilirse o sayfayı açar
     2. href'e ***.rar vb.*** uzantılı dosya verilirse indirir
     ![This is an image](/ss.png)
+    <hr></hr>
 
-
+  *html5 için semantik ögeler*
+    
+![a](https://www.semseo.com.tr/wp-content/uploads/2018/10/HTML5-Yap%C4%B1s%C4%B1.png)
+Web sitesi geliştirirken yardımcı olur nasıl olacağının iskeleti diyebiliriz....
+  Ama şöyle bir gerçek vardır kiii bunlar genelde ***div*** tagi ile yapılır
+## DIV-SPAN-ID
+- **div** : Ben buna genelde tuğla benzetmesi yapıyorum; inşaat tuğlalarını gördüysen üst üste koyulur her biri kendince bir yer kaplar.
+- **span** : Tuğla benzetmesinden gidersek aralarına giren çimento en güzel örnek :D Ama bu her tuğla için olmasa da olur.
+- **id** : Genelde id ise bir nevi kimliktir. tanımlandığı tagin (a tagi)href,css için çağırılırken başına *"#"* getirilmelidir.
   
   
  
